@@ -1,0 +1,6 @@
+{
+  "name": "Fantastic Impact",
+  "description": "An expansive 3D anime-inspired fantasy open-world action RPG featuring real-time elemental combat, instant character switching, traversal, and quests across Aeravia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
